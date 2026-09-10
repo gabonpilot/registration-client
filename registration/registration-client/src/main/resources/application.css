@@ -630,16 +630,21 @@
 Working on new Css by taleev
 */
 #loginScreen {
-	-fx-background-image: url('/images/generic-background3.jpg');
+	-fx-background-image: url('/images/LoginBackGround-new.png');
 	-fx-background-size: cover, auto;
 	-fx-background-position: left top, center;
 }
 
 #header-section {
-	-fx-background-color: rgb(11.0, 106.0, 130.0, 0.3);
+	-fx-background-color: rgb(11.0, 106.0, 130.0, 0.0);
 	-fx-pref-height: 30.0px;
 	-fx-pref-width: 1920.0px;
 }
+/*#header-section {
+	-fx-background-color: rgb(11.0, 106.0, 130.0, 0.3);
+	-fx-pref-height: 30.0px;
+	-fx-pref-width: 1920.0px;
+}*/
 
 #footer-section {
 	-fx-background-color: rgb(0.0, 0.0, 0.0, 0.0);
